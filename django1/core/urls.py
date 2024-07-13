@@ -12,3 +12,4 @@ urlpatterns = [
 
 handler404 = views.error404
 handler404 = views.error500
+#fdgdgdg
